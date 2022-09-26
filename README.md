@@ -2,7 +2,7 @@
 
 ## How do I install these formulae?
 
-`brew install alexanderflink/envop`
+`brew install alexanderflink/envop/envop`
 
 Or `brew tap alexanderflink/envop` and then `brew install envop`.
 

@@ -1,7 +1,7 @@
 # typed: false
 # frozen_string_literal: true
 
-class envop < Formula
+class Envop < Formula
   desc "A CLI for syncing environment variables using 1password"
   homepage "https://github.com/alexanderflink/envop/"
   version "0.35"
