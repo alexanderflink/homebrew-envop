@@ -4,7 +4,7 @@
 class Envop < Formula
   desc "A CLI for syncing environment variables using 1password"
   homepage "https://github.com/alexanderflink/envop/"
-  version "0.35"
+  version "1.0.3"
 
   on_macos do
     if Hardware::CPU.intel?
