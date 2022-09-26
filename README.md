@@ -1,10 +1,10 @@
-# Alexanderflink Envop
+# envop
 
 ## How do I install these formulae?
 
-`brew install alexanderflink/envop/<formula>`
+`brew install alexanderflink/envop`
 
-Or `brew tap alexanderflink/envop` and then `brew install <formula>`.
+Or `brew tap alexanderflink/envop` and then `brew install envop`.
 
 ## Documentation
 
